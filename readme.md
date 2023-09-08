@@ -1,6 +1,9 @@
-![GitHub contributors](https://img.shields.io/github/contributors/adarsh-goel/filestreambot-pro?style=flat&color=green)
-![GitHub repo size](https://img.shields.io/github/repo-size/adarsh-goel/filestreambot-pro?color=green)
-![GitHub](https://img.shields.io/github/license/adarsh-goel/filestreambot-pro?color=green)
+<p align="center">
+  <img src="https://telegra.ph/file/fa2a86b047c933400287a.jpg" alt="MOVIESCROWN LOGO">
+</p>
+<h1 align="center">
+  MOVIESCROWN BOT
+</h1>
 
 
 <h1 align="center"></h1>
