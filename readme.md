@@ -2,10 +2,10 @@ https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fwww.youtube.com%2F&tem
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/fa2a86b047c933400287a.jpg" alt="MOVIESCROWN LOGO">
+  <img src="https://telegra.ph/file/21200120f5f7806f5ba03.jpg" alt="FILMYMOD LOGO">
 </p>
 <h1 align="center">
-  MOVIESCROWN BOT
+  FILMYMOD BOT
 </h1>
 
 
