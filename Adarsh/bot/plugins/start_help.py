@@ -55,7 +55,7 @@ async def start(b, m):
         except UserNotParticipant:
              await StreamBot.send_photo(
                 chat_id=m.chat.id,
-                photo="https://telegra.ph/file/b2d67c553fd77a1184cbc.jpg",
+                photo="https://telegra.ph/file/21200120f5f7806f5ba03.jpg",
                 caption="<i>𝙹𝙾𝙸𝙽 CHANNEL 𝚃𝙾 𝚄𝚂𝙴 𝙼𝙴🔐</i>",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -70,14 +70,14 @@ async def start(b, m):
         except Exception:
             await b.send_message(
                 chat_id=m.chat.id,
-                text="<i>𝓢𝓸𝓶𝓮𝓽𝓱𝓲𝓷𝓰 𝔀𝓮𝓷𝓽 𝔀𝓻𝓸𝓷𝓰</i> <b> <a href='https://t.me/sheffy_samra'>CLICK HERE FOR SUPPORT </a></b>",
+                text="<i>𝓢𝓸𝓶𝓮𝓽𝓱𝓲𝓷𝓰 𝔀𝓮𝓷𝓽 𝔀𝓻𝓸𝓷𝓰</i> <b> <a href='https://t.me/Filmymod7'>CLICK HERE FOR SUPPORT </a></b>",
                 
                 disable_web_page_preview=True)
             return
     await StreamBot.send_photo(
         chat_id=m.chat.id,
-        photo ="https://telegra.ph/file/b2d67c553fd77a1184cbc.jpg",
-        caption =f'ʜᴇʟʟᴏ...⚡ {m.from_user.mention(style="md")}!,\n\nI am Telegram File to Link Generator Bot with Channel support.\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...',
+        photo ="https://telegra.ph/file/21200120f5f7806f5ba03.jpg",
+        caption =f'<b>Hᴇʟʟᴏ {m.from_user.mention(style="md")} ❤️\n\nI am Telegram File to Link Generator Bot with Channel support.\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ...',
         reply_markup=buttonz)
 
 
@@ -103,7 +103,7 @@ async def help_handler(bot, message):
         except UserNotParticipant:
             await StreamBot.send_photo(
                 chat_id=message.chat.id,
-                photo="https://telegra.ph/file/b2d67c553fd77a1184cbc.jpg",
+                photo="https://telegra.ph/file/21200120f5f7806f5ba03.jpg",
                 Caption="**𝙹𝙾𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿 𝚃𝙾 𝚄𝚂𝙴 ᴛʜɪs Bᴏᴛ!**\n\n__Dᴜᴇ ᴛᴏ Oᴠᴇʀʟᴏᴀᴅ, Oɴʟʏ Cʜᴀɴɴᴇʟ Sᴜʙsᴄʀɪʙᴇʀs ᴄᴀɴ ᴜsᴇ ᴛʜᴇ Bᴏᴛ!__",
                 reply_markup=InlineKeyboardMarkup(
                     [
