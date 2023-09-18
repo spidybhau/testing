@@ -118,7 +118,7 @@ async def help_handler(bot, message):
         except Exception:
             await bot.send_message(
                 chat_id=message.chat.id,
-                text="__Sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ Wʀᴏɴɢ. Cᴏɴᴛᴀᴄᴛ ᴍᴇ__ [sheffy_samra](https://t.me/sheffy_samra).",
+                text="__Sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ Wʀᴏɴɢ. Cᴏɴᴛᴀᴄᴛ ᴍᴇ__ [Filmymod7](https://t.me/Filmymod7).",
                 disable_web_page_preview=True)
             return
     await message.reply_text(
@@ -128,8 +128,8 @@ async def help_handler(bot, message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("💁‍♂️ DEV", url="https://t.me/sheffy_samra")],
-                [InlineKeyboardButton("💥 Join Us", url="https://t.me/moviescrown123")]
+                [InlineKeyboardButton("💁‍♂️ Developer", url="https://t.me/Filmymod7")],
+                [InlineKeyboardButton("💥 Join Us", url="https://t.me/Filmymod123")]
             ]
         )
     )
