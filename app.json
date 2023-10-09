@@ -1,5 +1,5 @@
 {
-  "name": "YD-FileStream",
+  "name": "SpidyFileStream",
   "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @adarshgoel",
   "keywords": [
       "telegram",
@@ -13,10 +13,10 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/",
+  "repository": "https://github.com",
   "success_url": "/",
   "logo": "https://i.ibb.co/MnMZ1Sy/download-1.jpg",
-  "website": "http://adarsh.eu.org",
+  "website": "http://spidy.eu.org",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
@@ -26,23 +26,29 @@
           "description": "Copy-Paste the app name that you just typed above."
       },
       "API_ID": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "Get this value from https://my.telegram.org",
+          "value":"25412293"
       },
       "API_HASH": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "Get this value from https://my.telegram.org",
+          "value":"d58456be9931f3f6b8154a626fc1b3c6"
       },
       "BOT_TOKEN": {
-          "description": "Get this value from @BotFather"
+          "description": "Get this value from @BotFather",
+          "value":"6675700363:AAGPKMFgwnhq_a_SV_g1ZVwK0zLGqnUtgxU"
       },
       "BIN_CHANNEL": {
-          "description": "The BIN Channel ID. Read the readme for more info about this var"
+          "description": "The BIN Channel ID. Read the readme for more info about this var",
+          "value":"-1001539398956"
           
       },
       "DATABASE_URL": {
-          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe"
+          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe",
+          "value":"mongodb+srv://teststream:V9IR5mv5OWH9Zm4k@streamtest.hvpx1ku.mongodb.net/?retryWrites=true&w=majority"
       },
       "OWNER_ID": {
-          "description": "Your Telegram User ID  like 1234509"
+          "description": "Your Telegram User ID  like 1234509",
+          "value":"1053777957"
       },
       "BANNED_CHANNELS": {
           "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
@@ -55,7 +61,8 @@
           
       },
       "OWNER_USERNAME": {
-          "description": "Enter your username without @  example  adarsh."
+          "description": "Enter your username without @  example  Spidy.",
+          "value":"Mr_SPIDY"
       },
       "SLEEP_THRESHOLD": {
           "description": "Floodwait Sleep timer. Read the readme for more info about this var",
