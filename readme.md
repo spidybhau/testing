@@ -2,10 +2,10 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/21200120f5f7806f5ba03.jpg" alt="FILMYMOD LOGO">
+  <img src="https://graph.org/file/7d7a262a767f61855f3cf.jpg" alt="YDZONE LOGO">
 </p>
 <h1 align="center">
-  FILMYMOD BOT
+  YDZONE BOT
 </h1>
 
 
