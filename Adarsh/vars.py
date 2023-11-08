@@ -38,3 +38,9 @@ class Var(object):
     DATABASE_URL = str(getenv('DATABASE_URL'))
     UPDATES_CHANNEL = str(getenv('UPDATES_CHANNEL', None))
     BANNED_CHANNELS = list(set(int(x) for x in str(getenv("BANNED_CHANNELS", "-1001362659779")).split())) 
+
+
+    STREAM_URL = (environ.get('STREAM_URL', "True") == "True")
+    STREAM_API = environ.get("STREAM_API", "3ee763c40a5f01777cd3d7b9772425d0fee46137") 
+    STREAM_SITE = environ.get("STREAM_SITE", "bindaaslinks.com") 
+    STREAM_LONG = environ.get("STREAM_LONG", False)
